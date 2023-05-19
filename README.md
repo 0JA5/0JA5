@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0JA5
 - 👀 I’m interested in programming, editting and animation.
-- 🌱 I’m currently learning C language.
+- 🌱 I’m currently learning C++ language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 G-Mail : ojastikku@gmail.com
 
